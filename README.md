@@ -1,4 +1,4 @@
-# Document.AI — Smart CV Analyzer
+# Document.AI 
 
 A lightweight, containerized application that accepts PDF format, parses their contents, summarizes them using GPT, and extracts structured insights:
 
