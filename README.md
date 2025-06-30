@@ -5,7 +5,7 @@ A lightweight, containerized application that accepts PDF format, parses their c
 - Company names  
 - etc
 
-## ✨ Features
+##  Features
 
 - Upload PDF format
 - Extracts text with `pdfplumber`
@@ -13,7 +13,7 @@ A lightweight, containerized application that accepts PDF format, parses their c
 - Returns structured, machine-readable data
 - Optional monitoring with Prometheus + Grafana
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Language**: Python 3.11  
 - **Framework**: FastAPI  
