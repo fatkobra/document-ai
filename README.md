@@ -22,6 +22,6 @@ A lightweight, containerized application that accepts PDF format, parses their c
 - **Containerization**: Docker  
 - **Monitoring (optional)**: Prometheus & Grafana  
 
-## 🚀 Getting Started
+##  Getting Started
 
 Coming soon — setup and usage instructions.
